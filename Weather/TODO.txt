@@ -1,0 +1,20 @@
+ok what do i want to do next
+
+format:
+
+[] uncompleted task
+
+[x] completed task
+
+notes:
+
+//so im going to call all of the api data, store it in an array and show it from the array
+
+tasks:
+
+[x] use the prevTemp string to store the weather data so the application doesnt lag
+
+
+
+
+
